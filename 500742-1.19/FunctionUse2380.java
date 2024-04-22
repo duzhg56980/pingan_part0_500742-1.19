@@ -1,0 +1,7 @@
+import org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration;
+public class FunctionUse2380 {
+public void funcUse() {
+SevenZMethodConfiguration sevenzmethodconfiguration = new SevenZMethodConfiguration();
+sevenzmethodconfiguration.equals(null);
+}
+}
